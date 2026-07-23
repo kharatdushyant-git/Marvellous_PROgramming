@@ -19,7 +19,7 @@ class Demo
     }
 }
 
-class Access
+class 0056Access
 {
     public static void main(String A[])
     {
