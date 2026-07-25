@@ -20,7 +20,6 @@ class Derived extends Base
 
     public Derived()
     {
-        super(11);  // Explicite call to base constructor
         System.out.println("Inside Derived constructor");
         this.i = 21;
     }
@@ -33,11 +32,11 @@ class Derived extends Base
     }
 }
 
-class 0066SuperDemoX
+class SuperDemo
 {
     public static void main(String A[])
     {
-        Derived dobj = new Derived(); 
+        Derived dobj = new Derived();   // Error
 
         dobj.gun();
     }
