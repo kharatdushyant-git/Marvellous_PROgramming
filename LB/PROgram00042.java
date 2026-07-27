@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class program42
+class PROgram00042
 {
     public static void CheckDivisible(int iNo)
     {

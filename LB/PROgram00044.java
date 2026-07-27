@@ -17,7 +17,7 @@ class NumberX
     }
 }
 
-class program44
+class PROgram00044
 {
 
 

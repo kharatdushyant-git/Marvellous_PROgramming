@@ -1,4 +1,4 @@
-class program35
+class PROgram00035
 {
     public static void main(String A[])
     {

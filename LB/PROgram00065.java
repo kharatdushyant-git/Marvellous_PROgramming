@@ -25,7 +25,7 @@ class NumberX
     }
 }
 
-class program65
+class PROgram00065
 {
     public static void main(String A[])
     {

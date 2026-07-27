@@ -15,7 +15,7 @@ class DigitX
     }
 }
 
-class program79
+class PROgram00079
 {
     public static void main(String A[])
     {

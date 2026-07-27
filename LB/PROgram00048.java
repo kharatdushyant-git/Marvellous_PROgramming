@@ -19,7 +19,7 @@ class NumberX
     }
 }
 
-class program48
+class PROgram00048
 {
     public static void main(String A[])
     {
