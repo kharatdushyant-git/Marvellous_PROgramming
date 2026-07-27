@@ -1,4 +1,4 @@
-def main():
+x def main():
     Marks = list()
 
     print("Enter 5 marks : ")
