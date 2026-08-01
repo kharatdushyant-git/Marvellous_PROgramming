@@ -1,4 +1,4 @@
-CheckEven = lambda No : (No % 2 == 0)
+xCheckEven = lambda No : (No % 2 == 0)
 Increment = lambda No : No+1
 Addition = lambda No1, No2 : No1 + No2
 
