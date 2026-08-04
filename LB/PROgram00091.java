@@ -2,6 +2,7 @@ import java.util.*;
 
 class DigitX
 {
+    // Even Sum of digit
     public int SumEvenDigits(int iNo)
     {
         int iDigit = 0;
