@@ -2,11 +2,11 @@
 
 typedef unsigned int UINT;
 
-// Poistion 9 & 17
+// Poistion 12 & 23
 
 int main()
 {
-    UINT iMask = 0X00010100;
+    UINT iMask = 0X00400800;
     UINT iNo = 0;
     UINT iResult = 0;
 
