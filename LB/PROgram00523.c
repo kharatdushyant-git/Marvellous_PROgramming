@@ -1,0 +1,30 @@
+#include<stdio.h>
+
+int Summation(int iNo)
+{
+    static int iSum = 0;
+    static int i = 1;
+
+    if(i <= iNo)
+    {
+        iSum = iSum + i;
+        i++;
+        Summation(iNo);
+    }
+
+    return iSum;
+}
+
+int main()
+{
+    int iValue = 0, iRet = 0;
+    
+    printf("Enter the Frequency : ");
+    scanf("%d",&iValue);
+
+    iRet = Summation(iValue);
+
+    printf("Summaiton is : %d",iRet);
+
+    return 0;
+}
